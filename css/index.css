@@ -1,0 +1,6 @@
+
+
+.container div::first-line{
+    background-image: url("../photos/asas.png");
+    background-size: cover;
+}
